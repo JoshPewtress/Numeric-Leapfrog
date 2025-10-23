@@ -8,7 +8,6 @@ The player tries to get within 3 of a randomly generated number without going ov
 - [Features](#features)
 - [Logic Breakdown / Tasks](#logic-breakdown--tasks)
 - [Code Structure](#code-structure)
-- [Technologies](#technologies)
 
 ## Overview
 This project demonstrates fundamental C# concepts including:
